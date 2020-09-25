@@ -14,4 +14,4 @@ A construção do sistema de gerencimento de estoque visa atender uma demanda po
 
 ## Informações
 
-- [Requisitos](docs/requisitos.md)
+- [Escopo](docs/escopo.md)
