@@ -1,7 +1,7 @@
 # Escopo do sistema
 ---
 
-- `Gerenciar estoque de impressora` 
+- `Gerenciar impressora` 
 - `Gerenciar estoque de tooner`
 - `Gerenciamento de alerta`
 - `Visualização de dados` 
