@@ -18,16 +18,22 @@
 - Atualizar equipamento
 - Exlucir equipamento 
 
-## Requisito 03: Gerenciar Impressora
+## Requisito 03: Gerenciar Departamento
+- Cadastrar departamento
+- Pesquisar departamento
+- Atualizar departamento
+- Exlucir departamento
+
+## Requisito 04: Gerenciar Impressora
 - Pesquisar impressora
 
-## Requisito 04: Gerenciar estoque de tooner
+## Requisito 05: Gerenciar estoque de tooner
 - Pesquisa Tooner
 
-## Requisito 05: Gerenciamento de alerta
+## Requisito 06: Gerenciamento de alerta
 - Ativar alerta para fim de estoque
 - Desativar alerta para fim de estoque
 
-## Requisito 06: Visualização de dados
+## Requisito 07: Visualização de dados
 - Listar impressoras cadastradas
 - Listar tooner cadastrados
