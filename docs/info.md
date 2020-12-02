@@ -11,6 +11,8 @@
 
 - Equipamento: aparelho eletrônico ou acessório eletrônico em geral.
 
+- Insumo: matéria prima utilizada por algum equipamento para funcionar corretamente.
+
 - Impressora: Equipamento eletrônico que realiza impressão de documentos, pode ser conectado diretamente em um computador ou a uma rede, podendo possui um IP.
 
 - Tooner: Equipamento que armazena a tinta e é acoplada a impressora. Cada impressora tem o seu prórpio modelo de *tooner*.
