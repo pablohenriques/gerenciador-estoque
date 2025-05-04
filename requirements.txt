@@ -1,0 +1,14 @@
+anyio
+asgiref
+click
+fastapi~=0.115.12
+h11
+idna
+pydantic~=2.11.3
+sniffio
+starlette
+typing-extensions
+uvicorn~=0.34.2
+
+SQLAlchemy~=2.0.40
+python-dotenv~=1.1.0
